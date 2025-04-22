@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Lavel 1 Task 1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Lavel 1 Task 1"
+	}
+}
